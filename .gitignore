@@ -1,0 +1,9 @@
+echo "*.exe
+*.obj
+*.o
+*.out
+.vs/
+Debug/
+Release/
+*.vcxproj*
+*.sln" 
